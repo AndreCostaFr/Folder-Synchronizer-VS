@@ -8,7 +8,7 @@ To run this script you must have Python 3 installed.
 
 You can run it using command lines by typing "python" + the path to this file.
 Use the source file's path and the replica file's path as arguments to dictate which are the files you want to copy.
-As the third argument, use the ammount of time (in seconds) you want the synchronizer to update the replica file, and as the fourth argument, the path to the logs text file.
+As the third argument, use the ammount of time (in seconds) you want the synchronizer to update the replica file, and as the fourth argument, the path to the logs text file. In case you haven't created a text file to log the synchronizer actions, the script will create one in the same folder as the "synchronizer.py".
 
 This script only works while it is running on terminal, if you kill the terminal it will stop synchronizing. Also, make sure the folders/directory paths you are running the script doesn't have any spaces between words since it might break the script and it will not work.
 
