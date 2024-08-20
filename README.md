@@ -1,7 +1,7 @@
 
 Folder Synchronizer
 
-The Folder Synchronizer is a robust utility designed to mirror the contents of a specified source directory to a target replica directory. It ensures that any modifications—whether additions or deletions—in the source directory are accurately reflected in the replica directory. Users can configure the synchronization interval and specify a text file to record all synchronization activities.
+The Folder Synchronizer is a robust utility designed to mirror the contents of a specified source directory to a target replica directory. It ensures that any modifications —whether additions or deletions— in the source directory are accurately reflected in the replica directory. Users can configure the synchronization interval and specify a text file to record all synchronization activities.
 
 This script is compatible with Linux distributions and Windows systems. To use it, Python 3 must be installed on your system.
 
