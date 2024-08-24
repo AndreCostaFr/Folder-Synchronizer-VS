@@ -20,3 +20,7 @@ To execute the script, enter the following command in your terminal:
 
 ```bash
 python path/to/synchronizer.py source_directory replica_directory sync_interval log_file
+
+```
+
+Or simply run it in Visual Studio Code (or any other of your choice).
